@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://commercialrooferswinstonsalem.com/sitemap.xml
-# AI: https://commercialrooferswinstonsalem.com/llms.txt
