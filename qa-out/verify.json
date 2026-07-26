@@ -1,7 +1,13 @@
 {
- "pages": 100,
+ "pages": 104,
  "fails": [],
  "warns": [
+  "G6 IMAGES: main-location hero image not on locations.html",
+  "G6 IMAGES: main-location hero image not on services.html",
+  "G6 IMAGES: main-location hero image not on industries.html",
+  "G6 IMAGES: main-location hero image not on roof-systems.html",
+  "G6 IMAGES: main-location hero image not on project-types.html",
+  "G6 IMAGES: main-location hero image not on manufacturers.html",
   "G8 CSS: 8 css files on disk never linked: ['0b3f92470d0c8c.css', '1f54d7d399c834.css', '4dad875b5b9bae.css', '69479b1e1070ed.css']"
  ],
  "content_warnings": []

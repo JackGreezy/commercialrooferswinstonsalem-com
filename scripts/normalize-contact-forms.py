@@ -64,16 +64,14 @@ def normalize_html(path):
         names = {el.get('name','') for el in form.find_all(['input','textarea','select'])}
         phone_aliases = {'phone','phoneNumber','phone_number','telephone','tel'}
         if not any(n in names for n in phone_aliases):
-            wrapper = soup.new_tag('label')
-            wrapper.string = 'Phone'
             phone = soup.new_tag('input')
             phone['name'] = 'phone'; phone['type'] = 'tel'; phone['required'] = ''; phone['autocomplete'] = 'tel'; phone['placeholder'] = 'Phone'
-            wrapper.append(phone)
+            phone['aria-label'] = 'Phone'
             anchor = form.find('textarea') or form.find(['button','input'], attrs={'type':'submit'})
             if anchor is not None:
-                anchor.insert_before(wrapper)
+                anchor.insert_before(phone)
             else:
-                form.append(wrapper)
+                form.append(phone)
             changed = True
         names = {el.get('name','') for el in form.find_all(['input','textarea','select'])}
         if 'timeline' not in names:
