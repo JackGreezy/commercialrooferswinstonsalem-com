@@ -11,7 +11,7 @@ function isBlockedContactName(body) {
   });
 }
 
-const contactConfig = {"name": "Commercial Roofers of Winston-Salem", "domain": "commercialrooferswinstonsalem.com", "address": "100 N Main St, Suite 2000, Winston-Salem, NC 27101", "phone": "555-555-6138", "phoneTel": "5555556138", "email": "quotes@commercialrooferswinstonsalem.com", "city": "Winston-Salem", "state": "NC"};
+const contactConfig = {"name": "Commercial Roofers of Winston-Salem", "domain": "commercialrooferswinstonsalem.com", "address": "100 N Main St, Suite 2000, Winston-Salem, NC 27101", "phone": "", "phoneTel": "", "email": "quotes@commercialrooferswinstonsalem.com", "city": "Winston-Salem", "state": "NC"};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
@@ -84,6 +84,6 @@ module.exports = async function handler(req, res) {
   if (isBlockedContactName(body)) return sendJson(res, 200, { ok: true, success: true }, headers);
   const lead = normalizeLead(body, req); const validationError = validateLead(lead);
   if (validationError) return sendJson(res, 400, { ok: false, success: false, message: validationError, error: validationError }, headers);
-  try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please call us directly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
+  try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please try again shortly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
   return sendJson(res, 200, { ok: true, success: true, message: "Your request has been received. Our team will follow up shortly." }, headers);
 };
