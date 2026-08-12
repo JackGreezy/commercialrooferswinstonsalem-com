@@ -519,17 +519,27 @@ footer .rr-footer-map iframe{position:absolute!important;inset:0!important;displ
 </div><form action="/api/submit" data-contact-form="" data-formid="1" id="gform_1" method="post" novalidate=""><input name="timeline" type="hidden" value="Not sure yet"/><input name="page" type="hidden" value="/contact"/><input name="serviceType" type="hidden" value="Commercial Roofing"/>
 <div class="gform-body gform_body"><div class="gform_fields top_label form_sublabel_below description_below validation_below" id="gform_fields_1"><fieldset class="gfield gfield--type-name gfield--input-type-name gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" id="field_1_1"><div class="ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row" id="input_1_1">
 <span class="name_first gform-grid-col gform-grid-col--size-auto" id="input_1_1_3_container">
-<input aria-required="true" id="contact-firstName" name="firstName" placeholder="First name" required="" type="text" value=""/>
+<input id="contact-firstName" name="name" type="text" autocomplete="name" placeholder="Your name" required/>
 <label class="gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text" for="contact-firstName">First name</label>
 </span>
 <span class="name_last gform-grid-col gform-grid-col--size-auto" id="input_1_1_6_container">
-<input aria-required="true" id="contact-lastName" name="lastName" placeholder="Last name" required="" type="text" value=""/>
+<input id="contact-lastName" name="phone" type="tel" autocomplete="tel" placeholder="Phone number" required/>
 <label class="gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text" for="contact-lastName">Last name</label>
 </span>
 </div></fieldset><div class="gfield gfield--type-email gfield--input-type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" id="field_1_3"><div class="ginput_container ginput_container_email">
-<input aria-invalid="false" aria-required="true" class="large" id="contact-emailAddress" name="emailAddress" placeholder="Email" required="" type="email" value=""/>
-</div></div><div class="gfield gfield--type-textarea gfield--input-type-textarea gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" id="field_1_6"><div class="ginput_container ginput_container_textarea"><input aria-label="Phone" autocomplete="tel" name="phone" placeholder="Phone" required="" type="tel"/><textarea aria-invalid="false" aria-required="true" class="textarea medium" cols="50" id="contact-projectDetails" name="projectDetails" placeholder="Tell us about the roof, issue, and schedule" rows="10"></textarea></div></div></div></div>
-<div class="gform-footer gform_footer top_label"> <input class="gform_button button" data-submission-type="submit" id="gform_submit_button_1" onclick="gform.submission.handleButtonClick(this);" type="submit" value="Request a Roof Assessment"/> <input name="gform_ajax" type="hidden" value="form_id=1&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=orbital&amp;styles=[]&amp;hash=45debb821be13f336994b6a132394d20"/>
+<input class="large" id="contact-emailAddress" name="email" type="email" autocomplete="email" placeholder="Email address" required/>
+</div></div><div class="gfield gfield--type-textarea gfield--input-type-textarea gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" id="field_1_6"><div class="ginput_container ginput_container_textarea"><select name="timeline" required>
+<option value="">Select a timeline</option>
+<option value="Emergency - active leak">Emergency - active leak</option>
+<option value="Within 30 days">Within 30 days</option>
+<option value="1-3 months">1-3 months</option>
+<option value="3-6 months">3-6 months</option>
+<option value="Planning / budgeting">Planning / budgeting</option>
+</select><input class="textarea medium" id="contact-projectDetails" name="address" type="text" autocomplete="street-address" placeholder="Building address or roof location" required/></div></div></div></div>
+<div class="gform-footer gform_footer top_label"> <div class="ginput_container ginput_container_email">
+<textarea class="large" id="contact-emailAddress" name="message" placeholder="Tell us about the roof, issue, access, and schedule" required rows="7"></textarea>
+</div>
+<input class="gform_button button" data-submission-type="submit" id="gform_submit_button_1" onclick="gform.submission.handleButtonClick(this);" type="submit" value="Request a Roof Assessment"/> <input name="gform_ajax" type="hidden" value="form_id=1&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=orbital&amp;styles=[]&amp;hash=45debb821be13f336994b6a132394d20"/>
 <input class="gform_hidden" data-js="gform_submission_method_1" name="gform_submission_method" type="hidden" value="iframe"/>
 <input class="gform_hidden" data-js="gform_theme_1" id="gform_theme_1" name="gform_theme" type="hidden" value="orbital"/>
 <input class="gform_hidden" data-js="gform_style_settings_1" id="gform_style_settings_1" name="gform_style_settings" type="hidden" value="[]"/>
