@@ -29,6 +29,7 @@ if os.path.isdir(src): shutil.copytree(src, dst, dirs_exist_ok=True)
 PY
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
+node "$PROJ/scripts/finalize-lead-controls.mjs" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 find "$PROJ/public" -maxdepth 1 -type f -name '*.html.ref' -delete
