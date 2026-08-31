@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "downtown-winston-salem",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "I-85 Light Manufacturing Roofs in Trinity",
-       "href": "/locations/trinity"
+       "href": "/service-areas/trinity"
       },
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Storm Damage Repair for Commercial Roofs in Winston-Salem",
@@ -92,23 +92,23 @@
      "related": [
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Roofing for Bethania's Historic District Buildings",
-       "href": "/locations/bethania"
+       "href": "/service-areas/bethania"
       },
       {
        "label": "Built-Up Roof Systems on Winston-Salem's Older Commercial Stock",
@@ -158,23 +158,23 @@
      "related": [
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Commercial Roof Service Along East Bend's NC-67 Corridor",
-       "href": "/locations/east-bend"
+       "href": "/service-areas/east-bend"
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Roofing the Kernersville Distribution Corridor Along I-40",
-       "href": "/locations/kernersville"
+       "href": "/service-areas/kernersville"
       },
       {
        "label": "Recover and Overlay Assessment for Winston-Salem Roofs",
@@ -224,23 +224,23 @@
      "related": [
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Roofing for Bethania's Historic District Buildings",
-       "href": "/locations/bethania"
+       "href": "/service-areas/bethania"
       },
       {
        "label": "PVC Membrane Roofing for Chemical- and Grease-Exposed Buildings",
@@ -290,23 +290,23 @@
      "related": [
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "I-85 Light Manufacturing Roofs in Trinity",
-       "href": "/locations/trinity"
+       "href": "/service-areas/trinity"
       },
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Reroofing Projects for Winston-Salem Commercial Properties",
@@ -356,23 +356,23 @@
      "related": [
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "EPDM Roofing for Winston-Salem Commercial Properties",
@@ -422,23 +422,23 @@
      "related": [
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "Full Tear-Off and Replacement for Winston-Salem Roofs",
@@ -484,23 +484,23 @@
      "related": [
       {
        "label": "Warehouse Roof Specification Work Along Colfax's Sandy Ridge Corridor",
-       "href": "/locations/colfax"
+       "href": "/service-areas/colfax"
       },
       {
        "label": "Roof Work on Cooleemee's Mill-Era Brick Buildings",
-       "href": "/locations/cooleemee"
+       "href": "/service-areas/cooleemee"
       },
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Commercial Roof Service Along East Bend's NC-67 Corridor",
-       "href": "/locations/east-bend"
+       "href": "/service-areas/east-bend"
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "EPDM Roofing for Winston-Salem Commercial Properties",
@@ -550,23 +550,23 @@
      "related": [
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Emergency Tarp and Dry-In for Winston-Salem Commercial Roofs",
@@ -616,23 +616,23 @@
      "related": [
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "EPDM Roofing for Winston-Salem Commercial Properties",
@@ -682,23 +682,23 @@
      "related": [
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Tracing and Repairing Commercial Roof Leaks in Winston-Salem",
@@ -744,23 +744,23 @@
      "related": [
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "Roof Documentation Standards for Oak Ridge's Retail and Campus Buildings",
-       "href": "/locations/oak-ridge"
+       "href": "/service-areas/oak-ridge"
       },
       {
        "label": "Yadkinville Road Roof Work for Pfafftown's Growing Retail Base",
-       "href": "/locations/pfafftown"
+       "href": "/service-areas/pfafftown"
       },
       {
        "label": "Modified Bitumen Systems for Winston-Salem Low-Slope Roofs",
@@ -810,23 +810,23 @@
      "related": [
       {
        "label": "Retail Center and Office Roofing Along Shallowford Road in Lewisville",
-       "href": "/locations/lewisville"
+       "href": "/service-areas/lewisville"
       },
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "Roof Documentation Standards for Oak Ridge's Retail and Campus Buildings",
-       "href": "/locations/oak-ridge"
+       "href": "/service-areas/oak-ridge"
       },
       {
        "label": "TPO Membrane Systems for Winston-Salem Buildings",
@@ -876,23 +876,23 @@
      "related": [
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "I-85 Light Manufacturing Roofs in Trinity",
-       "href": "/locations/trinity"
+       "href": "/service-areas/trinity"
       },
       {
        "label": "Acrylic Coating for Metal and Well-Drained Winston-Salem Roofs",
@@ -938,23 +938,23 @@
      "related": [
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Roofing the Kernersville Distribution Corridor Along I-40",
-       "href": "/locations/kernersville"
+       "href": "/service-areas/kernersville"
       },
       {
        "label": "Small-Footprint Commercial Roofs Along the US-52 Corridor",
-       "href": "/locations/king"
+       "href": "/service-areas/king"
       },
       {
        "label": "Emergency Tarp and Dry-In for Winston-Salem Commercial Roofs",
@@ -1004,23 +1004,23 @@
      "related": [
       {
        "label": "Warehouse Roof Specification Work Along Colfax's Sandy Ridge Corridor",
-       "href": "/locations/colfax"
+       "href": "/service-areas/colfax"
       },
       {
        "label": "Roof Work on Cooleemee's Mill-Era Brick Buildings",
-       "href": "/locations/cooleemee"
+       "href": "/service-areas/cooleemee"
       },
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Commercial Roof Service Along East Bend's NC-67 Corridor",
-       "href": "/locations/east-bend"
+       "href": "/service-areas/east-bend"
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "Commercial Roof Inspections for Winston-Salem Properties",
@@ -1066,23 +1066,23 @@
      "related": [
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "Roof Documentation Standards for Oak Ridge's Retail and Campus Buildings",
-       "href": "/locations/oak-ridge"
+       "href": "/service-areas/oak-ridge"
       },
       {
        "label": "Yadkinville Road Roof Work for Pfafftown's Growing Retail Base",
-       "href": "/locations/pfafftown"
+       "href": "/service-areas/pfafftown"
       },
       {
        "label": "R-Panel Metal Roofing for Warehouse and Industrial Buildings",
@@ -1132,23 +1132,23 @@
      "related": [
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Roofing the Kernersville Distribution Corridor Along I-40",
-       "href": "/locations/kernersville"
+       "href": "/service-areas/kernersville"
       },
       {
        "label": "Small-Footprint Commercial Roofs Along the US-52 Corridor",
-       "href": "/locations/king"
+       "href": "/service-areas/king"
       },
       {
        "label": "Retail Center and Office Roofing Along Shallowford Road in Lewisville",
-       "href": "/locations/lewisville"
+       "href": "/service-areas/lewisville"
       },
       {
        "label": "Commercial Roof Inspections for Winston-Salem Properties",
@@ -1194,23 +1194,23 @@
      "related": [
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "Roof Drains and Scuppers for Winston-Salem Commercial Buildings",
@@ -1260,23 +1260,23 @@
      "related": [
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "I-85 Light Manufacturing Roofs in Trinity",
-       "href": "/locations/trinity"
+       "href": "/service-areas/trinity"
       },
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Acrylic Coating for Metal and Well-Drained Winston-Salem Roofs",
@@ -1322,23 +1322,23 @@
      "related": [
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Commercial Roof Inspections for Winston-Salem Properties",
@@ -1384,23 +1384,23 @@
      "related": [
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Commercial Roof Service Along East Bend's NC-67 Corridor",
-       "href": "/locations/east-bend"
+       "href": "/service-areas/east-bend"
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Modified Bitumen Systems for Winston-Salem Low-Slope Roofs",
@@ -1450,23 +1450,23 @@
      "related": [
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "Roof Documentation Standards for Oak Ridge's Retail and Campus Buildings",
-       "href": "/locations/oak-ridge"
+       "href": "/service-areas/oak-ridge"
       },
       {
        "label": "Yadkinville Road Roof Work for Pfafftown's Growing Retail Base",
-       "href": "/locations/pfafftown"
+       "href": "/service-areas/pfafftown"
       },
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "R-Panel Metal Roofing for Warehouse and Industrial Buildings",
@@ -1516,23 +1516,23 @@
      "related": [
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "Recover and Overlay Assessment for Winston-Salem Roofs",
@@ -1582,23 +1582,23 @@
      "related": [
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Standing Seam Metal for Winston-Salem's Institutional Roofs",
@@ -1648,23 +1648,23 @@
      "related": [
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Roofing the Kernersville Distribution Corridor Along I-40",
-       "href": "/locations/kernersville"
+       "href": "/service-areas/kernersville"
       },
       {
        "label": "Small-Footprint Commercial Roofs Along the US-52 Corridor",
-       "href": "/locations/king"
+       "href": "/service-areas/king"
       },
       {
        "label": "Retail Center and Office Roofing Along Shallowford Road in Lewisville",
-       "href": "/locations/lewisville"
+       "href": "/service-areas/lewisville"
       },
       {
        "label": "Storm Damage Repair for Commercial Roofs in Winston-Salem",
@@ -1714,23 +1714,23 @@
      "related": [
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Standing Seam Metal for Winston-Salem's Institutional Roofs",
@@ -1780,23 +1780,23 @@
      "related": [
       {
        "label": "Small-Footprint Commercial Roofs Along the US-52 Corridor",
-       "href": "/locations/king"
+       "href": "/service-areas/king"
       },
       {
        "label": "Retail Center and Office Roofing Along Shallowford Road in Lewisville",
-       "href": "/locations/lewisville"
+       "href": "/service-areas/lewisville"
       },
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "EPDM Roofing for Winston-Salem Commercial Properties",
@@ -1846,23 +1846,23 @@
      "related": [
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Tracing and Repairing Commercial Roof Leaks in Winston-Salem",
@@ -1908,23 +1908,23 @@
      "related": [
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Reroofing Projects for Winston-Salem Commercial Properties",
@@ -1974,23 +1974,23 @@
      "related": [
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Roofing for Bethania's Historic District Buildings",
-       "href": "/locations/bethania"
+       "href": "/service-areas/bethania"
       },
       {
        "label": "Recover and Overlay Assessment for Winston-Salem Roofs",
@@ -2040,23 +2040,23 @@
      "related": [
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Contractor Yards and Small Retail Roofs Along US-158 in Walkertown",
-       "href": "/locations/walkertown"
+       "href": "/service-areas/walkertown"
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Textile Plant and County-Seat Roofing in Yadkinville",
-       "href": "/locations/yadkinville"
+       "href": "/service-areas/yadkinville"
       },
       {
        "label": "Storm Damage Repair for Commercial Roofs in Winston-Salem",
@@ -2106,23 +2106,23 @@
      "related": [
       {
        "label": "Roof Work on Cooleemee's Mill-Era Brick Buildings",
-       "href": "/locations/cooleemee"
+       "href": "/service-areas/cooleemee"
       },
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Commercial Roof Service Along East Bend's NC-67 Corridor",
-       "href": "/locations/east-bend"
+       "href": "/service-areas/east-bend"
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "EPDM Roofing for Winston-Salem Commercial Properties",
@@ -2172,23 +2172,23 @@
      "related": [
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Roofing for Bethania's Historic District Buildings",
-       "href": "/locations/bethania"
+       "href": "/service-areas/bethania"
       },
       {
        "label": "Roof Service for Clemmons Retail and Office Buildings",
-       "href": "/locations/clemmons"
+       "href": "/service-areas/clemmons"
       },
       {
        "label": "Edge Metal, Coping, and Gutter Systems for Winston-Salem Commercial Roofs",
@@ -2264,7 +2264,7 @@
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Roofing Over Active Production Lines: Manufacturing Plants in the Triad",
@@ -2326,7 +2326,7 @@
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -2380,7 +2380,7 @@
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -2438,7 +2438,7 @@
       },
       {
        "label": "Roof Service for Clemmons Retail and Office Buildings",
-       "href": "/locations/clemmons"
+       "href": "/service-areas/clemmons"
       },
       {
        "label": "Reroofing Hospitals and Surgery Centers Without Interrupting Patient Care",
@@ -2496,7 +2496,7 @@
       },
       {
        "label": "Warehouse Roof Specification Work Along Colfax's Sandy Ridge Corridor",
-       "href": "/locations/colfax"
+       "href": "/service-areas/colfax"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -2744,7 +2744,7 @@
       },
       {
        "label": "Roof Service for Clemmons Retail and Office Buildings",
-       "href": "/locations/clemmons"
+       "href": "/service-areas/clemmons"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -2860,7 +2860,7 @@
       },
       {
        "label": "Roof Service for Clemmons Retail and Office Buildings",
-       "href": "/locations/clemmons"
+       "href": "/service-areas/clemmons"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -2922,7 +2922,7 @@
       },
       {
        "label": "I-85 Light Manufacturing Roofs in Trinity",
-       "href": "/locations/trinity"
+       "href": "/service-areas/trinity"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -2988,7 +2988,7 @@
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -3046,7 +3046,7 @@
       },
       {
        "label": "Warehouse Roof Specification Work Along Colfax's Sandy Ridge Corridor",
-       "href": "/locations/colfax"
+       "href": "/service-areas/colfax"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -3096,7 +3096,7 @@
       },
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "Roofing Distribution Centers Along the Kernersville Logistics Corridor",
@@ -3150,7 +3150,7 @@
       },
       {
        "label": "Commercial Roofing for Lexington's Industrial Parks and Food Plants",
-       "href": "/locations/lexington"
+       "href": "/service-areas/lexington"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -3212,7 +3212,7 @@
       },
       {
        "label": "Warehouse Roof Specification Work Along Colfax's Sandy Ridge Corridor",
-       "href": "/locations/colfax"
+       "href": "/service-areas/colfax"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -3274,7 +3274,7 @@
       },
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -3336,7 +3336,7 @@
       },
       {
        "label": "Commercial Roof Work Around High Point's Furniture Market District",
-       "href": "/locations/high-point"
+       "href": "/service-areas/high-point"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -3398,7 +3398,7 @@
       },
       {
        "label": "Retail Center and Office Roofing Along Shallowford Road in Lewisville",
-       "href": "/locations/lewisville"
+       "href": "/service-areas/lewisville"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -3456,7 +3456,7 @@
       },
       {
        "label": "Small-Footprint Commercial Roofs Along the US-52 Corridor",
-       "href": "/locations/king"
+       "href": "/service-areas/king"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -3518,7 +3518,7 @@
       },
       {
        "label": "Roofing the Kernersville Distribution Corridor Along I-40",
-       "href": "/locations/kernersville"
+       "href": "/service-areas/kernersville"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -3580,7 +3580,7 @@
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -3634,7 +3634,7 @@
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -3702,7 +3702,7 @@
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofing Multi-Building Office Complexes in Winston-Salem",
@@ -3768,7 +3768,7 @@
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Roofing Distribution Centers Along the Kernersville Logistics Corridor",
@@ -3834,7 +3834,7 @@
       },
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -3896,7 +3896,7 @@
       },
       {
        "label": "Roof Work for Pilot Mountain's Tourism and Downtown Commercial Buildings",
-       "href": "/locations/pilot-mountain"
+       "href": "/service-areas/pilot-mountain"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -3962,7 +3962,7 @@
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -4028,7 +4028,7 @@
       },
       {
        "label": "Heavy Industrial Roofing Around the Union Cross Business Park",
-       "href": "/locations/union-cross"
+       "href": "/service-areas/union-cross"
       },
       {
        "label": "Roofing Winston-Salem/Forsyth County School Buildings",
@@ -4094,7 +4094,7 @@
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -4156,7 +4156,7 @@
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Roofing Academic and Research Buildings at Wake Forest, WSSU, and Salem College",
@@ -4228,7 +4228,7 @@
       },
       {
        "label": "Small Commercial Roof Service in the Belews Creek Steam Station Area",
-       "href": "/locations/belews-creek"
+       "href": "/service-areas/belews-creek"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -4294,7 +4294,7 @@
       },
       {
        "label": "Commercial Roofing for Mocksville's I-40 Industrial Parks",
-       "href": "/locations/mocksville"
+       "href": "/service-areas/mocksville"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -4356,7 +4356,7 @@
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roofing Distribution Centers Along the Kernersville Logistics Corridor",
@@ -4418,7 +4418,7 @@
       },
       {
        "label": "Roofing for Bethania's Historic District Buildings",
-       "href": "/locations/bethania"
+       "href": "/service-areas/bethania"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -4484,7 +4484,7 @@
       },
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Roofing Apartment Communities Near Wake Forest and Downtown Winston-Salem",
@@ -4546,7 +4546,7 @@
       },
       {
        "label": "US-52 Corridor Roof Work for Midway's Small Commercial Buildings",
-       "href": "/locations/midway"
+       "href": "/service-areas/midway"
       },
       {
        "label": "Roofing Winston-Salem/Forsyth County School Buildings",
@@ -4612,7 +4612,7 @@
       },
       {
        "label": "Roof Documentation Standards for Oak Ridge's Retail and Campus Buildings",
-       "href": "/locations/oak-ridge"
+       "href": "/service-areas/oak-ridge"
       },
       {
        "label": "Roofing Senior Living and Assisted Care Facilities",
@@ -4678,7 +4678,7 @@
       },
       {
        "label": "Roofing Downtown's Innovation Quarter Labs and Historic Brick Stock",
-       "href": "/locations/downtown-winston-salem"
+       "href": "/service-areas/downtown-winston-salem"
       },
       {
        "label": "Flat Roof Systems for Kernersville-Corridor Warehouse Space",
@@ -4746,7 +4746,7 @@
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Getting Roof Work Done Between the Last Bell and the First",
@@ -4792,7 +4792,7 @@
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Roofs Built to Carry What a Production Floor Puts on Them",
@@ -4838,7 +4838,7 @@
       },
       {
        "label": "Roofing Thomasville's Furniture Plants and I-85 Warehouse Stock",
-       "href": "/locations/thomasville"
+       "href": "/service-areas/thomasville"
       },
       {
        "label": "Roofs Built to Carry What a Production Floor Puts on Them",
@@ -4884,7 +4884,7 @@
       },
       {
        "label": "NC-8 Crossroads Roof Work for Germanton's Farm and Small Retail Buildings",
-       "href": "/locations/germanton"
+       "href": "/service-areas/germanton"
       },
       {
        "label": "Documenting Storm Damage the Way an Adjuster Needs to See It",
@@ -4930,7 +4930,7 @@
       },
       {
        "label": "Light Industrial Roofing Along Archdale's I-85 Corridor",
-       "href": "/locations/archdale"
+       "href": "/service-areas/archdale"
       },
       {
        "label": "Managing a Roof Portfolio Instead of a Single Building",
@@ -4976,7 +4976,7 @@
       },
       {
        "label": "Downtown and NC-65 Roof Work for Walnut Cove's Small Commercial Buildings",
-       "href": "/locations/walnut-cove"
+       "href": "/service-areas/walnut-cove"
       },
       {
        "label": "Managing a Roof Portfolio Instead of a Single Building",
@@ -5022,7 +5022,7 @@
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "Keeping the Roof Work Off Your Sales Floor Hours",
@@ -5068,7 +5068,7 @@
       },
       {
        "label": "Clear-Span Roof Work Near Welcome's Racing and Highway Commercial Buildings",
-       "href": "/locations/welcome"
+       "href": "/service-areas/welcome"
       },
       {
        "label": "Keeping the Roof Work Off Your Sales Floor Hours",
@@ -5114,7 +5114,7 @@
       },
       {
        "label": "Roofing for Arcadia's Small Commercial Strips in Davidson County",
-       "href": "/locations/arcadia"
+       "href": "/service-areas/arcadia"
       },
       {
        "label": "Roofs Built to Carry What a Production Floor Puts on Them",
@@ -5160,7 +5160,7 @@
       },
       {
        "label": "Metal Building Roof Service for Wallburg's Shops and Farm Structures",
-       "href": "/locations/wallburg"
+       "href": "/service-areas/wallburg"
       },
       {
        "label": "Keeping the Roof Work Off Your Sales Floor Hours",
@@ -5206,7 +5206,7 @@
       },
       {
        "label": "Roofing the Davie Medical Center Corridor in Bermuda Run",
-       "href": "/locations/bermuda-run"
+       "href": "/service-areas/bermuda-run"
       },
       {
        "label": "A Roofing Sub That Doesn't Slow Down Your Schedule",
@@ -5252,7 +5252,7 @@
       },
       {
        "label": "GTCC Campus and Main Street Roofing in Jamestown",
-       "href": "/locations/jamestown"
+       "href": "/service-areas/jamestown"
       },
       {
        "label": "Working Inside a Public Building's Budget and Bid Cycle",
@@ -5304,7 +5304,7 @@
       },
       {
        "label": "Distribution Warehouse and Highway Commercial Roofing in Advance",
-       "href": "/locations/advance"
+       "href": "/service-areas/advance"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -5350,7 +5350,7 @@
       },
       {
        "label": "Roof Work on Cooleemee's Mill-Era Brick Buildings",
-       "href": "/locations/cooleemee"
+       "href": "/service-areas/cooleemee"
       },
       {
        "label": "Roofing Grocery Stores and Anchor Tenants in Winston-Salem",
@@ -5396,7 +5396,7 @@
       },
       {
        "label": "New Commercial Construction Along the US-158/NC-68 Corridor in Stokesdale",
-       "href": "/locations/stokesdale"
+       "href": "/service-areas/stokesdale"
       },
       {
        "label": "Roof Systems for Medical Office Buildings Near the Innovation Quarter",
@@ -5442,7 +5442,7 @@
       },
       {
        "label": "Roofing US-52 Industrial and Distribution Buildings in Rural Hall",
-       "href": "/locations/rural-hall"
+       "href": "/service-areas/rural-hall"
       },
       {
        "label": "Roofing Over Active Production Lines: Manufacturing Plants in the Triad",
@@ -5488,7 +5488,7 @@
       },
       {
        "label": "Roofing for Tobaccoville's One Big Roof and Everything Around It",
-       "href": "/locations/tobaccoville"
+       "href": "/service-areas/tobaccoville"
       },
       {
        "label": "Roofing Big-Box Retail Along Winston-Salem's Retail Corridors",
@@ -5534,7 +5534,7 @@
       },
       {
        "label": "Roof Work on Cooleemee's Mill-Era Brick Buildings",
-       "href": "/locations/cooleemee"
+       "href": "/service-areas/cooleemee"
       },
       {
        "label": "Roofing Distribution Centers Along the Kernersville Logistics Corridor",

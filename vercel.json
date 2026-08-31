@@ -3,6 +3,14 @@
   "trailingSlash": false,
   "rewrites": [
     {
+      "source": "/service-areas",
+      "destination": "/locations.html"
+    },
+    {
+      "source": "/service-areas/:slug",
+      "destination": "/service-areas/:slug.html"
+    },
+    {
       "source": "/about",
       "destination": "/about.html"
     },
@@ -35,14 +43,6 @@
       "destination": "/industries/:slug.html"
     },
     {
-      "source": "/locations",
-      "destination": "/locations.html"
-    },
-    {
-      "source": "/locations/:slug",
-      "destination": "/locations/:slug.html"
-    },
-    {
       "source": "/manufacturers",
       "destination": "/manufacturers.html"
     },
@@ -67,5 +67,367 @@
       "destination": "/roof-systems/:slug.html"
     }
   ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/advance",
+      "destination": "/service-areas/advance",
+      "permanent": true
+    },
+    {
+      "source": "/locations/advance/",
+      "destination": "/service-areas/advance",
+      "permanent": true
+    },
+    {
+      "source": "/locations/arcadia",
+      "destination": "/service-areas/arcadia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/arcadia/",
+      "destination": "/service-areas/arcadia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/archdale",
+      "destination": "/service-areas/archdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/archdale/",
+      "destination": "/service-areas/archdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/belews-creek",
+      "destination": "/service-areas/belews-creek",
+      "permanent": true
+    },
+    {
+      "source": "/locations/belews-creek/",
+      "destination": "/service-areas/belews-creek",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bermuda-run",
+      "destination": "/service-areas/bermuda-run",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bermuda-run/",
+      "destination": "/service-areas/bermuda-run",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bethania",
+      "destination": "/service-areas/bethania",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bethania/",
+      "destination": "/service-areas/bethania",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clemmons",
+      "destination": "/service-areas/clemmons",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clemmons/",
+      "destination": "/service-areas/clemmons",
+      "permanent": true
+    },
+    {
+      "source": "/locations/colfax",
+      "destination": "/service-areas/colfax",
+      "permanent": true
+    },
+    {
+      "source": "/locations/colfax/",
+      "destination": "/service-areas/colfax",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cooleemee",
+      "destination": "/service-areas/cooleemee",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cooleemee/",
+      "destination": "/service-areas/cooleemee",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-winston-salem",
+      "destination": "/service-areas/downtown-winston-salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-winston-salem/",
+      "destination": "/service-areas/downtown-winston-salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-bend",
+      "destination": "/service-areas/east-bend",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-bend/",
+      "destination": "/service-areas/east-bend",
+      "permanent": true
+    },
+    {
+      "source": "/locations/germanton",
+      "destination": "/service-areas/germanton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/germanton/",
+      "destination": "/service-areas/germanton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/high-point",
+      "destination": "/service-areas/high-point",
+      "permanent": true
+    },
+    {
+      "source": "/locations/high-point/",
+      "destination": "/service-areas/high-point",
+      "permanent": true
+    },
+    {
+      "source": "/locations/jamestown",
+      "destination": "/service-areas/jamestown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/jamestown/",
+      "destination": "/service-areas/jamestown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/kernersville",
+      "destination": "/service-areas/kernersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/kernersville/",
+      "destination": "/service-areas/kernersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/king",
+      "destination": "/service-areas/king",
+      "permanent": true
+    },
+    {
+      "source": "/locations/king/",
+      "destination": "/service-areas/king",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lewisville",
+      "destination": "/service-areas/lewisville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lewisville/",
+      "destination": "/service-areas/lewisville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lexington",
+      "destination": "/service-areas/lexington",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lexington/",
+      "destination": "/service-areas/lexington",
+      "permanent": true
+    },
+    {
+      "source": "/locations/midway",
+      "destination": "/service-areas/midway",
+      "permanent": true
+    },
+    {
+      "source": "/locations/midway/",
+      "destination": "/service-areas/midway",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mocksville",
+      "destination": "/service-areas/mocksville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mocksville/",
+      "destination": "/service-areas/mocksville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oak-ridge",
+      "destination": "/service-areas/oak-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oak-ridge/",
+      "destination": "/service-areas/oak-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pfafftown",
+      "destination": "/service-areas/pfafftown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pfafftown/",
+      "destination": "/service-areas/pfafftown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pilot-mountain",
+      "destination": "/service-areas/pilot-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pilot-mountain/",
+      "destination": "/service-areas/pilot-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rural-hall",
+      "destination": "/service-areas/rural-hall",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rural-hall/",
+      "destination": "/service-areas/rural-hall",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stokesdale",
+      "destination": "/service-areas/stokesdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stokesdale/",
+      "destination": "/service-areas/stokesdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/thomasville",
+      "destination": "/service-areas/thomasville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/thomasville/",
+      "destination": "/service-areas/thomasville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tobaccoville",
+      "destination": "/service-areas/tobaccoville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tobaccoville/",
+      "destination": "/service-areas/tobaccoville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/trinity",
+      "destination": "/service-areas/trinity",
+      "permanent": true
+    },
+    {
+      "source": "/locations/trinity/",
+      "destination": "/service-areas/trinity",
+      "permanent": true
+    },
+    {
+      "source": "/locations/union-cross",
+      "destination": "/service-areas/union-cross",
+      "permanent": true
+    },
+    {
+      "source": "/locations/union-cross/",
+      "destination": "/service-areas/union-cross",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walkertown",
+      "destination": "/service-areas/walkertown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walkertown/",
+      "destination": "/service-areas/walkertown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wallburg",
+      "destination": "/service-areas/wallburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wallburg/",
+      "destination": "/service-areas/wallburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walnut-cove",
+      "destination": "/service-areas/walnut-cove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walnut-cove/",
+      "destination": "/service-areas/walnut-cove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/welcome",
+      "destination": "/service-areas/welcome",
+      "permanent": true
+    },
+    {
+      "source": "/locations/welcome/",
+      "destination": "/service-areas/welcome",
+      "permanent": true
+    },
+    {
+      "source": "/locations/yadkinville",
+      "destination": "/service-areas/yadkinville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/yadkinville/",
+      "destination": "/service-areas/yadkinville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/:slug",
+      "destination": "/service-areas/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }

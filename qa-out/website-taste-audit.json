@@ -1,0 +1,2852 @@
+{
+  "summary": {
+    "project": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialrooferswinstonsalem-com",
+    "routes": 104,
+    "cardGroups": 1,
+    "unevenCardGroups": 0,
+    "clippedText": 0,
+    "carousels": 12,
+    "carouselsMissingControls": 0,
+    "carouselFunctionFailures": 0,
+    "forms": 1,
+    "elPasoFormMatches": 1
+  },
+  "results": [
+    {
+      "route": "/",
+      "load": true,
+      "title": "Commercial Roofing Contractors Winston-Salem | Local Roofers",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/404",
+      "load": true,
+      "title": "Page not found | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.gallery-images.slick-initialized.slick-slider",
+          "slides": 8,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-nav.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-content.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 4,
+          "labels": [
+            "Previous slides",
+            "Next slides",
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.gallery-images.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-nav.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"false\",\"false\",\"false\",\"false\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-content.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "load": true,
+      "title": "About Commercial Roofers of Winston-Salem | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.gallery-images.slick-initialized.slick-slider",
+          "slides": 8,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": true
+        },
+        {
+          "selector": "div.tab-nav.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": true
+        },
+        {
+          "selector": "div.tab-content.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 4,
+          "labels": [
+            "Previous slides",
+            "Next slides",
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": true
+        }
+      ],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.gallery-images.slick-initialized.slick-slider",
+          "previous": "slick-arrow slick-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "slick-arrow slick-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"false\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -240, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-nav.slick-initialized.slick-slider",
+          "previous": "slick-arrow slick-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "slick-arrow slick-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"false\",\"false\",\"false\",\"false\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-content.slick-initialized.slick-slider",
+          "previous": "slick-arrow slick-prev rr-carousel-control rr-carousel-prev prev",
+          "next": "slick-arrow slick-next rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, -1296, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "load": true,
+      "title": "Let's Talk About Your Commercial Roof | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": {
+        "action": "/api/submit",
+        "method": "post",
+        "asyncHook": true,
+        "fields": [
+          {
+            "name": "_company",
+            "type": "text",
+            "required": false,
+            "visible": false
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "timeline",
+            "type": "select",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "notes",
+            "type": "textarea",
+            "required": true,
+            "visible": true
+          }
+        ],
+        "statusRegion": true
+      },
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries",
+      "load": true,
+      "title": "Industries We Serve | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/education-facilities",
+      "load": true,
+      "title": "Education Facilities Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/general-contractors",
+      "load": true,
+      "title": "Roofing Subcontractor for General Contractors in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/government-public-sector",
+      "load": true,
+      "title": "Government and Municipal Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/healthcare-systems",
+      "load": true,
+      "title": "Healthcare Systems Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/insurance-restoration",
+      "load": true,
+      "title": "Storm and Insurance Restoration Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/manufacturing-operators",
+      "load": true,
+      "title": "Manufacturing Facility Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/property-management-firms",
+      "load": true,
+      "title": "Roofing for Property Management Firms in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/retail-chain-operators",
+      "load": true,
+      "title": "Retail Chain Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas",
+      "load": true,
+      "title": "Service Areas | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/advance",
+      "load": true,
+      "title": "Commercial Roofing in Advance, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/arcadia",
+      "load": true,
+      "title": "Commercial Roofing in Arcadia, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/archdale",
+      "load": true,
+      "title": "Commercial Roofing in Archdale, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/belews-creek",
+      "load": true,
+      "title": "Commercial Roofing in Belews Creek, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/bermuda-run",
+      "load": true,
+      "title": "Commercial Roofing in Bermuda Run, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/bethania",
+      "load": true,
+      "title": "Commercial Roofing in Bethania, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/clemmons",
+      "load": true,
+      "title": "Commercial Roofing in Clemmons, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/colfax",
+      "load": true,
+      "title": "Commercial Roofing in Colfax, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/cooleemee",
+      "load": true,
+      "title": "Commercial Roofing in Cooleemee, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/downtown-winston-salem",
+      "load": true,
+      "title": "Commercial Roofing in Downtown Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/east-bend",
+      "load": true,
+      "title": "Commercial Roofing in East Bend, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/germanton",
+      "load": true,
+      "title": "Commercial Roofing in Germanton, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/high-point",
+      "load": true,
+      "title": "Commercial Roofing in High Point, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/jamestown",
+      "load": true,
+      "title": "Commercial Roofing in Jamestown, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/kernersville",
+      "load": true,
+      "title": "Commercial Roofing in Kernersville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/king",
+      "load": true,
+      "title": "Commercial Roofing in King, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/lewisville",
+      "load": true,
+      "title": "Commercial Roofing in Lewisville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/lexington",
+      "load": true,
+      "title": "Commercial Roofing in Lexington, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/midway",
+      "load": true,
+      "title": "Commercial Roofing in Midway, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/mocksville",
+      "load": true,
+      "title": "Commercial Roofing in Mocksville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/oak-ridge",
+      "load": true,
+      "title": "Commercial Roofing in Oak Ridge, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/pfafftown",
+      "load": true,
+      "title": "Commercial Roofing in Pfafftown, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/pilot-mountain",
+      "load": true,
+      "title": "Commercial Roofing in Pilot Mountain, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/rural-hall",
+      "load": true,
+      "title": "Commercial Roofing in Rural Hall, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/stokesdale",
+      "load": true,
+      "title": "Commercial Roofing in Stokesdale, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/thomasville",
+      "load": true,
+      "title": "Commercial Roofing in Thomasville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/tobaccoville",
+      "load": true,
+      "title": "Commercial Roofing in Tobaccoville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/trinity",
+      "load": true,
+      "title": "Commercial Roofing in Trinity, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/union-cross",
+      "load": true,
+      "title": "Commercial Roofing in Union Cross, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/walkertown",
+      "load": true,
+      "title": "Commercial Roofing in Walkertown, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/wallburg",
+      "load": true,
+      "title": "Commercial Roofing in Wallburg, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/walnut-cove",
+      "load": true,
+      "title": "Commercial Roofing in Walnut Cove, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/welcome",
+      "load": true,
+      "title": "Commercial Roofing in Welcome, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/yadkinville",
+      "load": true,
+      "title": "Commercial Roofing in Yadkinville, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers",
+      "load": true,
+      "title": "Roofing Manufacturers | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/carlisle-syntec",
+      "load": true,
+      "title": "Carlisle SynTec Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/gaf-commercial",
+      "load": true,
+      "title": "GAF Commercial Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/holcim-elevate",
+      "load": true,
+      "title": "Holcim Elevate Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/johns-manville",
+      "load": true,
+      "title": "Johns Manville Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/sika-sarnafil",
+      "load": true,
+      "title": "Sika Sarnafil Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/versico",
+      "load": true,
+      "title": "Versico Roofing Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/privacy",
+      "load": true,
+      "title": "Privacy Policy | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.gallery-images.slick-initialized.slick-slider",
+          "slides": 8,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-nav.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-content.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 4,
+          "labels": [
+            "Previous slides",
+            "Next slides",
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.gallery-images.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-nav.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"false\",\"false\",\"false\",\"false\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-content.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types",
+      "load": true,
+      "title": "Commercial Project Types | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/big-box-retail-roofing",
+      "load": true,
+      "title": "Big-Box Retail Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/distribution-center-roofing",
+      "load": true,
+      "title": "Distribution Center Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/grocery-store-roofing",
+      "load": true,
+      "title": "Grocery Store Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/higher-education-roofing",
+      "load": true,
+      "title": "Higher Education Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/hospital-surgery-center-roofing",
+      "load": true,
+      "title": "Hospital & Surgery Center Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/k12-school-roofing",
+      "load": true,
+      "title": "K-12 School Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/manufacturing-plant-roofing",
+      "load": true,
+      "title": "Manufacturing Plant Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/medical-office-building-roofing",
+      "load": true,
+      "title": "Medical Office Building Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/multifamily-apartment-roofing",
+      "load": true,
+      "title": "Multifamily Apartment Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/office-complex-roofing",
+      "load": true,
+      "title": "Office Complex Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/senior-living-facility-roofing",
+      "load": true,
+      "title": "Senior Living Facility Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/warehouse-roofing",
+      "load": true,
+      "title": "Warehouse Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems",
+      "load": true,
+      "title": "Roof Systems | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/epdm-black",
+      "load": true,
+      "title": "Black EPDM Roof Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/epdm-white",
+      "load": true,
+      "title": "White EPDM Roof Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/modified-bitumen-sbs",
+      "load": true,
+      "title": "SBS Modified Bitumen Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/pvc-roof-systems",
+      "load": true,
+      "title": "PVC Roof Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/silicone-roof-coating",
+      "load": true,
+      "title": "Silicone Roof Coatings in Winston-Salem, NC — Roof Systems | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/spray-polyurethane-foam",
+      "load": true,
+      "title": "Spray Polyurethane Foam Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/tpo-60-mil",
+      "load": true,
+      "title": "60-Mil TPO Roof Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/tpo-80-mil",
+      "load": true,
+      "title": "80-Mil TPO Roof Systems in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services",
+      "load": true,
+      "title": "Commercial Roofing Services | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/acrylic-roof-coatings",
+      "load": true,
+      "title": "Acrylic Roof Coatings in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/built-up-roofing",
+      "load": true,
+      "title": "Built-Up Roofing (BUR) in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/commercial-reroofing",
+      "load": true,
+      "title": "Commercial Reroofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/commercial-roof-inspection",
+      "load": true,
+      "title": "Commercial Roof Inspection in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/commercial-roof-insurance-claims",
+      "load": true,
+      "title": "Commercial Roof Insurance Claims in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/commercial-roof-leak-repair",
+      "load": true,
+      "title": "Commercial Roof Leak Repair in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/commercial-roof-tear-off-replacement",
+      "load": true,
+      "title": "Commercial Roof Tear-Off & Replacement in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/edge-metal-coping-gutters",
+      "load": true,
+      "title": "Edge Metal, Coping & Gutters in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/emergency-tarp-dry-in",
+      "load": true,
+      "title": "Emergency Tarp & Dry-In Service in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/epdm-commercial-roofing",
+      "load": true,
+      "title": "EPDM Commercial Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/hail-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Hail Damage Roof Insurance Claims in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/insurance-documentation-support",
+      "load": true,
+      "title": "Insurance Documentation Support in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [
+        {
+          "selector": "rr-related-grid",
+          "count": 6,
+          "minHeight": 159,
+          "maxHeight": 159,
+          "heightDelta": 0,
+          "minWidth": 444,
+          "maxWidth": 444,
+          "widthDelta": 0,
+          "clippedText": []
+        }
+      ],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 1,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/metal-r-panel-roofing",
+      "load": true,
+      "title": "Metal R-Panel Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/modified-bitumen-roofing",
+      "load": true,
+      "title": "Modified Bitumen Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/preventive-maintenance-programs",
+      "load": true,
+      "title": "Preventive Maintenance Programs in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/pvc-roofing",
+      "load": true,
+      "title": "PVC Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/roof-drains-scuppers",
+      "load": true,
+      "title": "Roof Drains & Scuppers in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/roof-recover-overlay",
+      "load": true,
+      "title": "Roof Recover & Overlay in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/silicone-roof-coatings",
+      "load": true,
+      "title": "Silicone Roof Coatings in Winston-Salem, NC — Commercial Roofing Services | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/snow-ice-roof-damage-insurance-claims",
+      "load": true,
+      "title": "Snow & Ice Roof Damage Insurance Claims in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/standing-seam-metal-roofing",
+      "load": true,
+      "title": "Standing Seam Metal Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/storm-damage-roof-repair",
+      "load": true,
+      "title": "Storm Damage Roof Repair in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/tpo-single-ply-roofing",
+      "load": true,
+      "title": "TPO Single-Ply Roofing in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/wind-storm-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Wind & Storm Damage Roof Insurance Claims in Winston-Salem, NC | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": {
+        "left": 230,
+        "width": 980,
+        "right": 1210
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/terms",
+      "load": true,
+      "title": "Terms of Service | Commercial Roofers of Winston-Salem",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.gallery-images.slick-initialized.slick-slider",
+          "slides": 8,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-nav.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.tab-content.slick-initialized.slick-slider",
+          "slides": 5,
+          "visibleControls": 4,
+          "labels": [
+            "Previous slides",
+            "Next slides",
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.gallery-images.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"matrix(1, 0, 0, 1, -864, 0)\",\"matrix(1, 0, 0, 1, -1629, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-nav.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"false\",\"false\",\"false\",\"false\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"matrix(1, 0, 0, 1, 0, 0)\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        },
+        {
+          "root": "div.tab-content.slick-initialized.slick-slider",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    }
+  ]
+}
