@@ -24,3 +24,74 @@
   .site-header .menu-container{min-width:0;gap:12px}
   .site-header .main-navigation{min-width:0;flex:1}
 }
+
+/* ===== Inner-page layout repairs (legal pages, about steps, detail copy, footer) ===== */
+/* Detail copy: the thin condensed face needs more leading to read comfortably */
+[data-rr-prose="detail"] p,
+[data-rr-prose="detail"] li {
+  font-size: 19px;
+  line-height: 1.6;
+}
+[data-rr-prose="detail"] li { margin-bottom: 6px; }
+[data-rr-prose="detail"] h2 { line-height: 1.15; margin-top: 44px; }
+[data-rr-prose="detail"] h3 { line-height: 1.2; margin-top: 28px; }
+/* Privacy and terms body */
+.rr-legal-body { padding: 70px 0 90px; }
+.rr-legal-body .container { max-width: 860px; }
+.rr-legal-body h2 {
+  font-size: clamp(28px, 3vw, 38px);
+  line-height: 1.12;
+  margin: 40px 0 12px;
+}
+.rr-legal-body p,
+.rr-legal-body li {
+  font-size: 19px;
+  line-height: 1.6;
+  margin: 0 0 14px;
+}
+.rr-legal-body ul { margin: 0 0 20px; padding-left: 22px; }
+.rr-legal-body a { color: #8f1a0d; text-decoration: underline; }
+/* About: hide the duplicate gallery strip and its arrows; process steps are a plain stacked list */
+.flex-content.slider .slider-gallery { display: none !important; }
+.flex-content .slick-arrow { display: none !important; }
+.rr-steps { padding: 70px 0 40px; }
+.rr-steps h2 { margin: 0 0 40px; text-align: center; }
+.rr-step {
+  align-items: center;
+  border-top: 1px solid rgba(0, 0, 0, 0.14);
+  display: grid;
+  gap: 44px;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 6fr);
+  padding: 34px 0;
+}
+.rr-step:nth-of-type(even) { grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); }
+.rr-step:nth-of-type(even) .rr-step-img { order: 2; }
+.rr-step-img img { display: block; height: 320px; object-fit: cover; width: 100%; }
+.rr-step-label {
+  color: #8f1a0d;
+  display: block;
+  font-size: 15px;
+  letter-spacing: 0.14em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+.rr-step-text h3 { font-size: clamp(26px, 2.6vw, 34px); line-height: 1.15; margin: 0 0 12px; }
+.rr-step-text p { font-size: 19px; line-height: 1.6; margin: 0; }
+@media (max-width: 767px) {
+  .rr-step, .rr-step:nth-of-type(even) { grid-template-columns: 1fr; gap: 18px; padding: 26px 0; }
+  .rr-step:nth-of-type(even) .rr-step-img { order: 0; }
+  .rr-step-img img { height: 220px; }
+}
+/* Contact: the office block repeats the sidebar and ends in a phone icon with no number */
+.contact-locations { display: none !important; }
+/* Footer link row: keep off the viewport edge and readable */
+html body #colophon nav.rr-footer-ia {
+  box-sizing: border-box !important;
+  margin: 24px auto 0 !important;
+  max-width: 1280px !important;
+  padding: 0 24px 40px !important;
+  width: 100% !important;
+  font-size: 13px !important;
+}
+html body #colophon nav.rr-footer-ia a { color: #2b2b2b !important; padding: 4px 0 !important; }
+/* ===== end inner-page layout repairs ===== */
