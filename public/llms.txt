@@ -139,7 +139,7 @@ Contact: quotes@commercialrooferswinstonsalem.com
 
 ## Machine-readable
 
-- [Full content](https://commercialrooferswinstonsalem.com/llms-full.txt): 72 pages within the size limit.
+- [Full content](https://commercialrooferswinstonsalem.com/llms-full.txt): 73 pages within the size limit.
 - [Complete Markdown catalog](https://commercialrooferswinstonsalem.com/api/md/_catalog): all 107 public pages.
 - [Sitemap](https://commercialrooferswinstonsalem.com/sitemap.xml): canonical HTML URLs.
 - [AI usage policy](https://commercialrooferswinstonsalem.com/ai.txt).

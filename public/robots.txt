@@ -8,6 +8,16 @@ User-agent: Perplexity-User
 Allow: /
 Sitemap: https://commercialrooferswinstonsalem.com/sitemap.xml
 # AI: https://commercialrooferswinstonsalem.com/llms.txt
+# AI public-route exclusions
+Disallow: /api/
+Disallow: /admin/
+Disallow: /portal/
+Disallow: /dashboard/
+Disallow: /auth/
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /onboarding/
+Disallow: /dev-access
 
 # AI public-route exclusions
 Disallow: /api/

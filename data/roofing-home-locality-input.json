@@ -1,0 +1,11 @@
+{
+  "city": "Winston-Salem",
+  "state": "NC",
+  "domain": "commercialrooferswinstonsalem.com",
+  "evidence": {
+    "type": "CURRENT_CONTACT_POSTAL_ADDRESS_MATCHES_PREVIOUSLY_VERIFIED_MARKET",
+    "sourceFile": "public/contact.html",
+    "sourceDeployment": "dpl_6r8Qid1kYTfDnm4jmsTPPyPRGWYt",
+    "sourceSha1": "0836f828cc3657646c506689d63e26f1c37d5d55"
+  }
+}
