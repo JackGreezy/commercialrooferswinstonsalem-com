@@ -95,3 +95,31 @@ html body #colophon nav.rr-footer-ia {
 }
 html body #colophon nav.rr-footer-ia a { color: #2b2b2b !important; padding: 4px 0 !important; }
 /* ===== end inner-page layout repairs ===== */
+
+/* ===== repair pass: readable body face, hero arrows, tile images, stray links ===== */
+html body, html body p, html body li, html body td, html body label, html body input, html body textarea, html body select {
+  font-family: cervo_neueregular_neue, "Helvetica Neue", Arial, sans-serif;
+}
+html body .ws-response span, html body .ws-service p, html body .ws-close p, html body .ws-capital__copy p, html body .ws-options li, html body .content-wysiwyg p {
+  font-family: cervo_neueregular_neue, "Helvetica Neue", Arial, sans-serif;
+  font-size: 19px;
+  line-height: 1.55;
+}
+html body .ws-response span { font-size: 16px; color: rgba(255,255,255,.88); }
+html body .ws-service p, html body .ws-close p { color: rgba(255,255,255,.94); }
+html body .ws-capital__copy>p:not(.ws-eyebrow) { color: #33414a; }
+.ws-hero-actions a::after, .ws-hero-actions a::before { display: none !important; content: none !important; }
+.masonry-projects .project-card > a { display: block; position: relative; height: 100%; }
+html body [data-rr-band] .masonry-projects .project-card > a > img { position: absolute !important; inset: 0; width: 100% !important; height: 100% !important; max-height: none !important; object-fit: cover !important; }
+.masonry-projects .project-card .img-overlay { z-index: 1; }
+.masonry-projects .project-card .project-details { z-index: 2; }
+nav.rh-rain-intent-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 28px; margin: 0; padding: 22px 24px; background: #eef1f3; border-top: 1px solid #d8dde0; }
+nav.rh-rain-intent-row a { color: #46545d !important; font-family: cervo_neuemedium_neue, Arial, sans-serif; font-size: 15px; letter-spacing: .03em; text-decoration: none; }
+nav.rh-rain-intent-row a:hover { color: #8b0e04 !important; text-decoration: underline; }
+html body .ws-capital__copy>p:not(.ws-eyebrow), html body .ws-service p, html body .ws-close p, html body .content-wysiwyg p, html body [data-rr-prose="detail"] p, html body [data-rr-prose="detail"] li, html body .ws-options li { font-family: cervo_neuemedium_neue, cervo_neueregular_neue, Arial, sans-serif; font-weight: 400; }
+html body .ws-capital__copy>p:not(.ws-eyebrow) { color: #24303a; }
+[data-rh-leak-page] { max-width: 980px; margin: 0 auto; padding: 36px 28px 90px; box-sizing: border-box; }
+[data-rh-leak-page] h1 { font-size: clamp(38px, 5vw, 62px); line-height: 1.05; margin: 0 0 24px; }
+[data-rh-leak-page] h2 { font-size: clamp(28px, 3.2vw, 40px); line-height: 1.1; margin: 40px 0 14px; }
+[data-rh-leak-page] p, [data-rh-leak-page] li { font-size: 19px; line-height: 1.6; }
+[data-rh-leak-page] ul { padding-left: 22px; }

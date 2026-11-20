@@ -54,20 +54,20 @@
         }
       ]
     },
-    "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc.webp": {
+    "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc-v2.webp": {
       "width": 1408,
       "height": 1056,
       "variants": [
         {
-          "src": "/performance/fleet-images/87e74cd4c6f706cc.webp",
+          "src": "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 400
         },
         {
-          "src": "/performance/fleet-images/76c16528ce365fb0.webp",
+          "src": "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 828
         },
         {
-          "src": "/performance/fleet-images/10cc5b59f9b4dadb.webp",
+          "src": "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 1240
         }
       ]
@@ -162,20 +162,20 @@
         }
       ]
     },
-    "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc.webp": {
+    "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc-v2.webp": {
       "width": 2400,
       "height": 1600,
       "variants": [
         {
-          "src": "/performance/fleet-images/54c9840799084037.webp",
+          "src": "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 400
         },
         {
-          "src": "/performance/fleet-images/b6126af9ea9da3f9.webp",
+          "src": "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 828
         },
         {
-          "src": "/performance/fleet-images/9356533943f3dbd7.webp",
+          "src": "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc-v2.webp",
           "width": 1240
         }
       ]
@@ -183,13 +183,13 @@
   },
   "lazyImages": [
     "/ours/service-areas/commercial-roofers-winston-salem-nc-02.webp",
-    "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofers-winston-salem-nc-v2.webp",
     "/ours/services/commercial-roof-leak-repair-commercial-roofers-winston-salem-nc.webp",
     "/ours/services/preventive-maintenance-programs-commercial-roofers-winston-salem-nc.webp",
     "/ours/roof-systems/tpo-80-mil-commercial-roofers-winston-salem-nc.webp",
     "/ours/roof-systems/tpo-60-mil-commercial-roofers-winston-salem-nc.webp",
     "/ours/roof-systems/pvc-roof-systems-commercial-roofers-winston-salem-nc.webp",
-    "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc.webp"
+    "/ours/roof-systems/epdm-black-commercial-roofers-winston-salem-nc-v2.webp"
   ],
   "lazyBackgrounds": [],
   "heroBackground": "/ours/service-areas/commercial-roofers-winston-salem-nc-01.webp"
