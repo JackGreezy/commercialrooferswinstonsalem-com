@@ -1,0 +1,122 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialrooferswinstonsalem.com",
+  "images": {
+    "/ours/manufacturers/sika-sarnafil-commercial-roofers-winston-salem-nc.webp": "/performance/roofing-v1/f5b9d7092ecb6dd3bddfc9fc.webp",
+    "/ours/roof-systems/tpo-80-mil-commercial-roofers-winston-salem-nc.webp": "/performance/roofing-v1/2c542cd927d43defc28b80d7.webp"
+  },
+  "assets": [
+    {
+      "from": "/ours/manufacturers/sika-sarnafil-commercial-roofers-winston-salem-nc.webp",
+      "to": "/performance/roofing-v1/f5b9d7092ecb6dd3bddfc9fc.webp",
+      "width": 2300,
+      "height": 1294,
+      "beforeBytes": 111768,
+      "afterBytes": 87416
+    },
+    {
+      "from": "/ours/roof-systems/tpo-80-mil-commercial-roofers-winston-salem-nc.webp",
+      "to": "/performance/roofing-v1/2c542cd927d43defc28b80d7.webp",
+      "width": 1920,
+      "height": 1080,
+      "beforeBytes": 99862,
+      "afterBytes": 78520
+    }
+  ],
+  "createdAt": "2026-11-21T01:42:28.876Z",
+  "fonts": [
+    {
+      "source": "https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap&ver=7.0",
+      "cssPath": "/performance/roofing-v1/761f998607d8a717f18f23bb.css",
+      "assets": [
+        {
+          "source": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9WdhyyTh89ZNpQ.woff2",
+          "path": "/performance/roofing-v1/a724a4b6a8844a50c489b602.woff2",
+          "bytes": 5664
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9WlhyyTh89Y.woff2",
+          "path": "/performance/roofing-v1/441b026df205d28954f61b69.woff2",
+          "bytes": 8596
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q3bHNwZcQHrKU.woff2",
+          "path": "/performance/roofing-v1/b33198fb52366e824056c406.woff2",
+          "bytes": 11376
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHNwZcQHrKU.woff2",
+          "path": "/performance/roofing-v1/424b4f88c651e8665459b7a4.woff2",
+          "bytes": 9052
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q1bHNwZcQHrKU.woff2",
+          "path": "/performance/roofing-v1/01a6e4c5494407e3760a8f9e.woff2",
+          "bytes": 5040
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q0bHNwZcQHrKU.woff2",
+          "path": "/performance/roofing-v1/5aee253c8731c7e7a44978db.woff2",
+          "bytes": 13196
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q6bHNwZcQH.woff2",
+          "path": "/performance/roofing-v1/37de00fad3261e45a435d970.woff2",
+          "bytes": 15036
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVep1q4ZnRSZ_QG.woff2",
+          "path": "/performance/roofing-v1/8c167cad093a6b64f26a9297.woff2",
+          "bytes": 10388
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVerlq4ZnRSZ_QG.woff2",
+          "path": "/performance/roofing-v1/781efc61771b9bd11528fe08.woff2",
+          "bytes": 8432
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVepVq4ZnRSZ_QG.woff2",
+          "path": "/performance/roofing-v1/af3229afabaa8282cf271f37.woff2",
+          "bytes": 4836
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVepFq4ZnRSZ_QG.woff2",
+          "path": "/performance/roofing-v1/c0622f45c6553009dedddf37.woff2",
+          "bytes": 12472
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4ZnRSZw.woff2",
+          "path": "/performance/roofing-v1/48f9f02f3deb51cb7e21f794.woff2",
+          "bytes": 13932
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRlZfTc4PlJz5.woff2",
+          "path": "/performance/roofing-v1/bc7afc4ebe0dfeb26a0cf577.woff2",
+          "bytes": 9976
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1ZfTc4PlJz5.woff2",
+          "path": "/performance/roofing-v1/fed306f72eda2753b7b3bf3d.woff2",
+          "bytes": 8072
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRFZfTc4PlJz5.woff2",
+          "path": "/performance/roofing-v1/14f12dadd0ee744d60465ab3.woff2",
+          "bytes": 4820
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tRVZfTc4PlJz5.woff2",
+          "path": "/performance/roofing-v1/f62e855e030f2b017fdb7432.woff2",
+          "bytes": 12384
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tS1ZfTc4PlA.woff2",
+          "path": "/performance/roofing-v1/b57915f2b753b4dc8d5b5be2.woff2",
+          "bytes": 13820
+        }
+      ],
+      "latin": "/performance/roofing-v1/441b026df205d28954f61b69.woff2"
+    }
+  ],
+  "fontFailures": []
+}
