@@ -27,7 +27,7 @@ function fonts(s,css=false){
 
 function html(s){
  if(!/<(?:html|main|section|img|iframe)\b/i.test(s))return s;
- const old=s;s=fonts(images(s));let count=0;
+ const old=s;s=fonts(images(s));if(config.inlineSvg)s=s.replace(/<svg\b[^>]*>[\s\S]*?<\/svg>/gi,svg=>config.inlineSvg[digest(svg)]?.replacement||svg);let count=0;
  s=s.replace(/<img\b(?:[^>"']|"[^"]*"|'[^']*')*>/gi,tag=>{count++;const priority=attr(tag,'fetchpriority');if(count>4&&priority!=='high'&&!/\b(?:hero|banner|logo|masthead)\b/i.test((attr(tag,'class')||'')+' '+(attr(tag,'id')||''))){if(attr(tag,'loading')!=='lazy'){tag=set(tag,'loading','lazy');stats.lazyImages++;}}return tag;});
  s=s.replace(/<iframe\b(?:[^>"']|"[^"]*"|'[^']*')*>/gi,tag=>{if(/(?:google\.[^/]+\/maps|maps\.google\.)/i.test(attr(tag,'src')||'')&&attr(tag,'loading')!=='lazy'){tag=set(tag,'loading','lazy');stats.lazyMaps++;}return tag;});
  // Keep every stylesheet in its original cascade position, including repeated sheets.
